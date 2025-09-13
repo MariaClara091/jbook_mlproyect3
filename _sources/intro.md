@@ -1,4 +1,4 @@
-# Bienvenido a nuestro Miniproyecto 3
+# Bienvenido a nuestro Miniproyecto Sección 4
 
 Autores: María Clara Ávila Chinchia, David Alejandro Ibáñez Barrios y Mateo José Giraldo Castillo
 
